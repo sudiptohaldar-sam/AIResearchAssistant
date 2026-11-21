@@ -1,0 +1,26 @@
+# --- LLM + Search APIs ---
+groq
+tavily-python
+
+# --- Agent framework ---
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-tavily
+langgraph
+
+# --- Config / environment ---
+python-dotenv
+pydantic
+
+# --- HTTP / utilities ---
+requests
+httpx
+tenacity
+
+# --- Optional: UI ---
+streamlit
+
+# --- Optional: memory / vector store ---
+chromadb
