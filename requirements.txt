@@ -18,6 +18,7 @@ pydantic
 requests
 httpx
 tenacity
+bs4
 
 # --- Optional: UI ---
 streamlit
